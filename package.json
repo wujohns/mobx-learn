@@ -11,7 +11,9 @@
   "dependencies": {
     "lodash": "^4.17.4",
     "async": "^2.4.1",
-    "mobx": "*"
+    "mobx": "^3.2.1"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "babel-preset-stage-3": "*"
+  }
 }

@@ -31,7 +31,10 @@ const packageConfig = {
         'mobx': '^3.2.1'
     },
 
-    devDependencies: {}
+    devDependencies: {
+        // babel 依赖的包
+        'babel-preset-stage-3': '^6.24.1'
+    }
 };
 
 const fs = require('fs');
