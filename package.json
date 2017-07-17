@@ -14,6 +14,8 @@
     "mobx": "^3.2.1"
   },
   "devDependencies": {
-    "babel-preset-stage-3": "*"
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "babel-plugin-transform-decorators-legacy": "^1.3.4"
   }
 }

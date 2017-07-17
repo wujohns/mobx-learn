@@ -4,10 +4,7 @@
  * @author wujohns
  * @date 17/7/12
  */
-const mobx = require('mobx');
-observable = mobx.observable,
-computed = mobx.computed,
-autorun = mobx.autorun;
+import { observable, computed, autorun } from 'mobx';
 
 const numbers = observable([1, 2, 3]);
 const sum = computed(() => numbers.reduce((a, b) => a + b, 0));

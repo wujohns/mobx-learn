@@ -33,7 +33,9 @@ const packageConfig = {
 
     devDependencies: {
         // babel 依赖的包
-        'babel-preset-stage-3': '^6.24.1'
+        'babel-preset-es2015': '^6.24.1',
+        'babel-preset-stage-2': '^6.24.1',
+        'babel-plugin-transform-decorators-legacy': '^1.3.4'
     }
 };
 
