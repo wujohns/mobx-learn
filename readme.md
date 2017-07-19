@@ -12,3 +12,6 @@
 
 ## 测试代码运行
 使用 `babel-node` 即可直接运行 `scripts` 目录下的案例代码，ex: `babel-node scripts/base1.js`
+
+## 相关参考
+[Decorator相关使用](http://es6.ruanyifeng.com/#docs/decorator)
