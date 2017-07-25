@@ -1,8 +1,8 @@
 /**
- * 测试 ES7 特性使用
+ * mobx 配合 decorator 的使用
  *
  * @author wujohns
- * @date 17/7/17
+ * @date 17/7/25
  */
 'use strict';
 
