@@ -11,6 +11,9 @@ import {
     userStrict, action
 } from 'mobx';
 
+/**
+ * 单页应用中的全局状态变量
+ */
 class Store {
-
+    @observable 
 }
