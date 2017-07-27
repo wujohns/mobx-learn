@@ -11,6 +11,7 @@ import { useStrict, observable } from 'mobx';
 import UserStore from './user_store';
 import PageStore from './page_store';
 
+// 强制只能使用 action 变更状态
 useStrict(true);
 
 /**
@@ -29,6 +30,7 @@ class Store {
     }
 }
 
+// store 的初始化
 const store = new Store({
     userInfo: {
         username: '',
