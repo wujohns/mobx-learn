@@ -6,7 +6,7 @@
  */
 'use strict';
 
-import { useStrict, action, runInAction } from 'mobx';
+import { action, runInAction } from 'mobx';
 
 import store from './store';
 
