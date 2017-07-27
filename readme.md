@@ -14,9 +14,9 @@
 使用 `babel-node` 即可直接运行 `scripts` 目录下的案例代码，ex: `babel-node scripts/base1.js`  
 
 ## 目录
-1.[mobx的基础使用](/docs/1.mobx的基础使用.md)  
-1.[mobx与decorator配合使用](/docs/2.mobx与decorator配合使用.md)  
-1.[mobx在实际工程的范式总结](/docs/3.mobx在实际工程的范式总结.md)  
+1. [mobx的基础使用](/docs/1.mobx的基础使用.md)  
+1. [mobx与decorator配合使用](/docs/2.mobx与decorator配合使用.md)  
+1. [mobx在实际工程的范式总结](/docs/3.mobx在实际工程的范式总结.md)  
 
 ## 补充
 [plus1.decorator(修饰器)的使用](/docs/plus1.decorator(修饰器)的使用.md)  
