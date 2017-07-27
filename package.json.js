@@ -5,10 +5,10 @@
 
 const packageConfig = {
     // 基础说明配置
-    name: 'redux-learn',
+    name: 'mobx-learn',
     version: '0.0.1',
     author: 'wujohns',
-    description: 'learn redux',
+    description: 'learn mobx',
     license: 'MIT',
 
     /**
