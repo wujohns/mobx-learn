@@ -1,5 +1,5 @@
 {
-    "footer": "Powered By Bubufly Studio",
+    "footer": "Powered By Bubufly Studio - Wujohns",
     "list": [
         { "title": "简介", "path": "readme.md" },
         { "title": "mobx 基础使用", "path": "docs/1.mobx的基础使用.md" },
